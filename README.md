@@ -12,3 +12,5 @@ nevoia de putina relaxare.
 
 # Aplicatia foloseste 2 API-uri: primul API genereaza glume cu Chuck Noris random, iar al doilea genereaza citate random.
 
+
+![api](https://user-images.githubusercontent.com/83643518/117571351-e0722900-b0d6-11eb-8b33-7c9392a397d4.JPG)
